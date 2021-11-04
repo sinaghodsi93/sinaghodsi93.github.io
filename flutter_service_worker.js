@@ -91,8 +91,8 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "ffed6899ceb84c60a1efa51c809a57e4",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "favicon.png": "986caf4029dc3a5842cd1ec9c242125d",
-"index.html": "51d202667b02b1f1340882f38a5dfbf3",
-"/": "51d202667b02b1f1340882f38a5dfbf3",
+"index.html": "a3b3d93f78a5f24545be25d494359e15",
+"/": "a3b3d93f78a5f24545be25d494359e15",
 "main.dart.js": "01d2dedef736e3f54f6a3ff15da7dff4",
 "manifest.json": "c54e08a879e358628d6046bef94ac321",
 "version.json": "1cefaf2a48f42633ff4b37ffe0e9de96"
